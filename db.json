@@ -1,4 +1,4 @@
-{"ships":[
+{[
         {"id":1,"name":"Akula","rarity":"Common","points":"1","races":"4","avarege":"20.8","img":"https://docs.cryptoships.club/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU29wH43QXFaZ9EA1NQhA%2Fuploads%2FYwEkgPemZ8TfrjoA9lBo%2FCommon%20-%20Akula.png?alt=media&token=232bc153-29d3-4cec-8c01-9af94b8e5988"},
         {"id":2,"name":"Blue Moon","rarity":"Common","points":"1","races":"4","avarege":"20.8","img":"https://docs.cryptoships.club/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU29wH43QXFaZ9EA1NQhA%2Fuploads%2FEwGm0GE9fiFvvhTPzbMW%2FCommon%20-%20Blue%20Moon.png?alt=media&token=b5196979-371e-45ef-80b4-79306c132034"},
         {"id":3,"name":"Borey 955","rarity":"Common","points":"1","races":"4","avarege":"20.8","img":"https://docs.cryptoships.club/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU29wH43QXFaZ9EA1NQhA%2Fuploads%2FOLyIEHuKM9FK37jSfT5i%2FCommon%20-%20Borey%20955.png?alt=media&token=fe33b1fe-0d97-43b9-9823-21103477e43f"},
