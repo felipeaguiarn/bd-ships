@@ -1,5 +1,4 @@
-{
-    "ships":[
+{"ships":[
         {"id":1,"name":"Akula","rarity":"Common","points":"1","races":"4","avarege":"20.8","img":"https://docs.cryptoships.club/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU29wH43QXFaZ9EA1NQhA%2Fuploads%2FYwEkgPemZ8TfrjoA9lBo%2FCommon%20-%20Akula.png?alt=media&token=232bc153-29d3-4cec-8c01-9af94b8e5988"},
         {"id":2,"name":"Blue Moon","rarity":"Common","points":"1","races":"4","avarege":"20.8","img":"https://docs.cryptoships.club/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU29wH43QXFaZ9EA1NQhA%2Fuploads%2FEwGm0GE9fiFvvhTPzbMW%2FCommon%20-%20Blue%20Moon.png?alt=media&token=b5196979-371e-45ef-80b4-79306c132034"},
         {"id":3,"name":"Borey 955","rarity":"Common","points":"1","races":"4","avarege":"20.8","img":"https://docs.cryptoships.club/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU29wH43QXFaZ9EA1NQhA%2Fuploads%2FOLyIEHuKM9FK37jSfT5i%2FCommon%20-%20Borey%20955.png?alt=media&token=fe33b1fe-0d97-43b9-9823-21103477e43f"},
@@ -52,5 +51,4 @@
         {"id":50,"name":"Jade Dragon","rarity":"Legendary","points":"5","races":"6","avarege":"31.2","img":"https://docs.cryptoships.club/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU29wH43QXFaZ9EA1NQhA%2Fuploads%2F4PQoQGjFSpGnV9EXZrGA%2FLegendary%20-%20Jade%20Dragon.png?alt=media&token=25e0be42-134e-4d8a-a5e1-1320506467f4"},
         {"id":51,"name":"Lilac Dragon","rarity":"Legendary","points":"5","races":"6","avarege":"31.2","img":"https://docs.cryptoships.club/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU29wH43QXFaZ9EA1NQhA%2Fuploads%2FwpgEjECeeT8BCLwt9cA0%2FLegendary%20-%20Amethyst%20Dragon.png?alt=media&token=a2fb6088-60aa-4e4b-acaa-38ab4ee69bae"},
         {"id":52,"name":"Ruby Dragon","rarity":"Legendary","points":"5","races":"6","avarege":"31.2","img":"https://docs.cryptoships.club/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU29wH43QXFaZ9EA1NQhA%2Fuploads%2FbZrO48LknP5a1DIoOCH0%2FLegendary%20-%20Ruby%20Dragon.png?alt=media&token=484c6248-373e-4c9d-8f7a-96a6e39e6262"}
-    ]
-}
+]}
